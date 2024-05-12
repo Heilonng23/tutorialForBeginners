@@ -1,0 +1,78 @@
+.navbar .navbar-nav .nav-item .nav-link{
+   color: white;
+}
+.align-items-right h3,
+.heading1 h1 {
+   font-family: "DM Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+}
+.align-items-center h3
+{
+   margin-left: 0px !important
+}
+.container .row ul li, .container .jsbutton ul li button
+ {
+   color: #323330;
+   list-style: none;
+   text-decoration: none;
+}
+.container .jsbutton ul li button{
+   border: 2px black solid;
+   background-color: #F0DB4F;
+   margin-top: 10px;
+}
+.container .jsxbutton ul li button{
+   color: #61DBFB;
+   text-decoration: none;
+   border: 2px #61DBFB solid;
+   background-color: black;
+   margin-top: 10px;
+}
+.container .tsbutton ul li button{
+   color: white;
+   text-decoration: none;
+   border: 2px black solid;
+   background-color: #3178c6;
+   margin-top: 10px;
+}
+.jsroadmap1{
+   border: 2px black solid;
+   border-radius: 10px;
+   background-image: url(images/jsback.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.reactroadmap1{
+   border: 2px black solid;
+   border-radius: 10px;
+   background-image: url(images/reactback.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.tsxroadmap1{
+   border: 2px black solid;
+   border-radius: 10px;
+   background-image: url(https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2019/8/typescriptimage-1568052628959.jpeg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+.container .row{
+   color: white;
+}
+.resources1 li a{
+   text-decoration: none;
+}
+.resources1 .js1{
+   color: black;
+}
+.resources1 .tsx1{
+   color: white;
+}
+.resources1 .jsx1{
+   color: white;
+}
